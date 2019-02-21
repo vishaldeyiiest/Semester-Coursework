@@ -1,0 +1,6 @@
+[submodule "7thSem"]
+	path = 7thSem
+	url = https://github.com/vishaldeyiiest/7th-Sem.git
+[submodule "8thSem"]
+	path = 8thSem
+	url = https://github.com/vishaldeyiiest/8thSem.git
